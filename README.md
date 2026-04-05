@@ -115,10 +115,6 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 
 ---
 
-
-
----
-
 <sub>⭐️ From <a href="https://github.com/Abhishek-2973">Abhishek</a> with ❤️</sub>
 
 </div>
