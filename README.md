@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-  src="https://raw.githubusercontent.com/Joaninnn/Joaninnn/main/lcometoNurmuhammetsGithub1-ezgif.com-crop.gif" 
+  src="https://raw.githubusercontent.com/Abhishek-2973/Abhishek-2973/main/Banner.jpg"
   alt="Welcome animation" 
 />
 
