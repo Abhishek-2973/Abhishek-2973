@@ -8,9 +8,9 @@
 
 <h3>Connect with me</h3>
 
-[![AboutMe](https://img.shields.io/badge/🌐_ABOUT_ME-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://about-me-gilt-two.vercel.app/)
+[![AboutMe](https://img.shields.io/badge/🌐_ABOUT_ME-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
 [![Telegram](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BadGoku)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/TPMMAZY57KT2J1)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/GCU3RQ2675V3N1)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-xd/)
 
 </div>
