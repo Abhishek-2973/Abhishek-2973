@@ -119,12 +119,10 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 
 ---
 
-<h3>Visitor Count</h3>
 
-![](https://komarev.com/ghpvc/?username=Abhishek-2973&color=000000&style=flat-square&label=Profile+Views)
 
 ---
 
-<sub>⭐️ From <a href="https://github.com/Abhishek-2973">Abhihsek</a> with ❤️</sub>
+<sub>⭐️ From <a href="https://github.com/Abhishek-2973">Abhishek</a> with ❤️</sub>
 
 </div>
