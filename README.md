@@ -9,9 +9,9 @@
 <h3>Connect with me</h3>
 
 [![AboutMe](https://img.shields.io/badge/🌐_ABOUT_ME-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://about-me-gilt-two.vercel.app/)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaninnn)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BadGoku)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/TPMMAZY57KT2J1)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurmuhammet-altybaev-50b222338)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-xd/)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 <h2>About me</h2>
 
-Hello, I'm **Nurmuhammet Altybaev** — a Frontend Developer focused on building clean, scalable, and modern web applications.  
+Hello, I'm **Abhishek** — a Fullstack Developer focused on building clean, scalable, and modern web applications.  
 I value structure, performance, and long-term maintainability over hype.
 
 <br/>
@@ -121,10 +121,10 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 
 <h3>Visitor Count</h3>
 
-![](https://komarev.com/ghpvc/?username=Joaninnn&color=000000&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Abhishek-2973&color=000000&style=flat-square&label=Profile+Views)
 
 ---
 
-<sub>⭐️ From <a href="https://github.com/Joaninnn">Joaninnn</a> with ❤️</sub>
+<sub>⭐️ From <a href="https://github.com/Abhishek-2973">Abhihsek</a> with ❤️</sub>
 
 </div>
